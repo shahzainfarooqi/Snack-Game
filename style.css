@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #1f1d1d;
+    margin: 0;
+}
+.Game{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 20px;
+    height: 10px;
+    
+}
+canvas {
+    border: 1px solid #000;
+    background-color: #1f1d1d;
+}
